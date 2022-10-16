@@ -1,4 +1,4 @@
-package com.music;
+package com.kratika_music;
 
 public class Song {
     private String title;

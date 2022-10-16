@@ -1,4 +1,4 @@
-package com.music;
+package com.kratika_music;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
